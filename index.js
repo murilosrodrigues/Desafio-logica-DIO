@@ -2,8 +2,6 @@ let heroeName = "Rookie";
 let experience = 1;
 let mesage = "O Herói de nome "+heroeName+" está no nível de ";
 
-
-
 for(var xp = 0; xp <=10001; xp++)
 {
     if(experience <= 1000)
